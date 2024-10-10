@@ -8,8 +8,10 @@ using CharacterController = ShootEmUp.Controller.CharacterController;
 
 public class GamaplayMenager : MonoBehaviour
 {
-    [SerializeField] private GamaplayViewPanel _gamaplayViewPanel;
+    [SerializeField] private GamaplayViewPanel _gameplayPanel;
+    [SerializeField] private ExitViewPanel _exitViewPanel;
     [SerializeField] private EndGamePanel _endGamePanel;
+    [SerializeField] private TimerViewPanel _timerPanel;
     [SerializeField] private TransformableView _characterTransformableView;
     [SerializeField] private List<PhysicsEventsBroadcaster> _allDisableBulletZone;
     [SerializeField] private List<PhysicsEventsBroadcaster> _allDisableEnemyZone;
@@ -88,7 +90,7 @@ public class GamaplayMenager : MonoBehaviour
     private void InitializeFSM(ServiceLocator locator,PhysicsEventsBroadcaster player)
     {
         _fsm.BindState(new LevelInitializedState(_fsm)).
-            BindState(new GUIInitializedState(_fsm, locator, _gamaplayViewPanel, this, _endGamePanel))
+            BindState(new GUIInitializedState(_fsm, this, locator,_exitViewPanel, _gameplayPanel, _endGamePanel,_timerPanel))
            .BindState(new PhysicsRoutingState(locator,_fsm,_characterTransformableView,player, this, _allDisableBulletZone,_allDisableEnemyZone))
            .BindState(new IdelState(_fsm));
     }

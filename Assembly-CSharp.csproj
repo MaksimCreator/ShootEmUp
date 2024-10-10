@@ -71,7 +71,6 @@
     <Compile Include="Assets\Source\Observer\Action\Character\CharacterTakeDamageAction.cs" />
     <Compile Include="Assets\Resources\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextInfoDebugTool.cs" />
     <Compile Include="Assets\Source\Model\VisisterInterface\IBulletVisiter.cs" />
-    <Compile Include="Assets\Source\Model\Data\CharacterData.cs" />
     <Compile Include="Assets\Source\Model\Constant.cs" />
     <Compile Include="Assets\Resources\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_A.cs" />
     <Compile Include="Assets\Source\Observer\EnemyObserver.cs" />
@@ -86,7 +85,6 @@
     <Compile Include="Assets\Source\Model\Health\PlayerHealth.cs" />
     <Compile Include="Assets\Source\Model\IUpdatable.cs" />
     <Compile Include="Assets\Source\Model\EnemyShot.cs" />
-    <Compile Include="Assets\Source\Model\Data\Interface\ICharacterData.cs" />
     <Compile Include="Assets\Resources\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
     <Compile Include="Assets\Source\Model\Entity\Enemy.cs" />
     <Compile Include="Assets\Source\Model\Physics\PhysicsRouter.cs" />
@@ -96,18 +94,19 @@
     <Compile Include="Assets\Source\Model\VisisterInterface\IEnemyVisiter.cs" />
     <Compile Include="Assets\Resources\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
     <Compile Include="Assets\Source\View\Fsm\State\IdelState.cs" />
-    <Compile Include="Assets\Source\Model\Data\GameData.cs" />
     <Compile Include="Assets\Source\Model\Movemeng\CharacterMovement.cs" />
     <Compile Include="Assets\Source\Model\Entity\DefoltEnemy.cs" />
     <Compile Include="Assets\Source\View\Fsm\State\GUIInitializedState.cs" />
     <Compile Include="Assets\Source\Observer\Interface\IBulletObserver.cs" />
+    <Compile Include="Assets\Source\Data\Interface\ICharacterData.cs" />
     <Compile Include="Assets\Source\Model\Spawner\EnemySpawnerBullet.cs" />
-    <Compile Include="Assets\Source\Model\Data\SingelPlayerData.cs" />
     <Compile Include="Assets\Source\View\Fsm\State\LevelInitializedState.cs" />
+    <Compile Include="Assets\Source\Data\PlayerData.cs" />
     <Compile Include="Assets\Source\View\Panel\StartViewPanel.cs" />
     <Compile Include="Assets\Source\Model\ServiceLocator\ServiceLocator.cs" />
+    <Compile Include="Assets\Source\Model\Creater\Interface\IEntityCreater.cs" />
     <Compile Include="Assets\Source\Model\Zones\DisableBulletZone.cs" />
-    <Compile Include="Assets\Source\Model\Data\PlayerData.cs" />
+    <Compile Include="Assets\Source\View\Panel\TimerViewPanel.cs" />
     <Compile Include="Assets\Resources\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark04.cs" />
     <Compile Include="Assets\Resources\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_UiFrameRateCounter.cs" />
     <Compile Include="Assets\Source\Controller\BulletController.cs" />
@@ -161,6 +160,7 @@
     <Compile Include="Assets\Source\Input\InputRouter.cs" />
     <Compile Include="Assets\Source\Model\Entity\Row.cs" />
     <Compile Include="Assets\Source\Controller\CharacterController.cs" />
+    <Compile Include="Assets\Source\Data\SingelPlayerData.cs" />
     <Compile Include="Assets\Source\Input\ShipInput.cs" />
     <Compile Include="Assets\Resources\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_FrameRateCounter.cs" />
     <Compile Include="Assets\Resources\TextMesh Pro\Examples &amp; Extras\Scripts\WarpTextExample.cs" />
@@ -172,8 +172,11 @@
     <Compile Include="Assets\Source\Model\Simulated\BulletSimulated.cs" />
     <Compile Include="Assets\Resources\TextMesh Pro\Examples &amp; Extras\Scripts\TextConsoleSimulator.cs" />
     <Compile Include="Assets\Resources\TextMesh Pro\Examples &amp; Extras\Scripts\SkewTextExample.cs" />
+    <Compile Include="Assets\Source\Data\GameData.cs" />
+    <Compile Include="Assets\Source\Model\Creater\EntityCreater.cs" />
     <Compile Include="Assets\Source\Model\Movemeng\EnemyMovement.cs" />
     <Compile Include="Assets\Source\Model\VisisterInterface\IEntityVisiter.cs" />
+    <Compile Include="Assets\Source\View\Panel\ExitViewPanel.cs" />
     <Compile Include="Assets\Source\View\Factory\BulletViewFactroy.cs" />
     <Compile Include="Assets\Source\Config\LayerBullet.cs" />
     <Compile Include="Assets\Source\Observer\Action\ActionObserver.cs" />
@@ -184,6 +187,7 @@
     <Compile Include="Assets\Resources\TextMesh Pro\Examples &amp; Extras\Scripts\VertexJitter.cs" />
     <Compile Include="Assets\Resources\TextMesh Pro\Examples &amp; Extras\Scripts\ObjectSpin.cs" />
     <Compile Include="Assets\Source\View\Fsm\Fsm.cs" />
+    <Compile Include="Assets\Source\Data\CharacterData.cs" />
     <Compile Include="Assets\Source\Input\Interface\IInputControl.cs" />
     <Compile Include="Assets\Source\Controller\ObserverController.cs" />
     <Compile Include="Assets\Resources\TextMesh Pro\Examples &amp; Extras\Scripts\ChatController.cs" />

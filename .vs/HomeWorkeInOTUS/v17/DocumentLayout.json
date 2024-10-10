@@ -3,28 +3,88 @@
   "WorkspaceRootPath": "C:\\Users\\veche\\HomeWorkeInOTUS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\entrypoint\\gameplayentrypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\entrypoint\\gameplayentrypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|c:\\users\\veche\\homeworkeinotus\\assets\\source\\model\\spawner\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\model\\spawner\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\model\\spawner\\bulletspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\model\\spawner\\bulletspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\model\\spawner\\poolobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\model\\spawner\\poolobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\controller\\observercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\controller\\observercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\controller\\enemyscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\controller\\enemyscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|c:\\users\\veche\\homeworkeinotus\\assets\\source\\model\\movemeng\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\model\\movemeng\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\controller\\charactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\controller\\charactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|c:\\users\\veche\\homeworkeinotus\\assets\\source\\model\\movemeng\\interface\\ienemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\model\\movemeng\\interface\\ienemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\controller\\bulletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\controller\\bulletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\view\\factory\\transformableviewfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\view\\factory\\transformableviewfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\observer\\action\\actionobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\observer\\action\\actionobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\controller\\bulletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\controller\\bulletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\observer\\characterobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\observer\\characterobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\observer\\bulletobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\observer\\bulletobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\view\\panel\\timerviewpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\view\\panel\\timerviewpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\view\\fsm\\state\\guiinitializedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\view\\fsm\\state\\guiinitializedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\view\\panel\\exitviewpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\view\\panel\\exitviewpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\view\\panel\\gamaplayviewpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\view\\panel\\gamaplayviewpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\view\\panel\\endgamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\view\\panel\\endgamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\manager\\gamaplaymenager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\manager\\gamaplaymenager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Data\\PlayerData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:Assets\\Source\\Data\\PlayerData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\entrypoint\\gameplayentrypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\entrypoint\\gameplayentrypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\model\\movemeng\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\model\\movemeng\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\model\\movemeng\\interface\\ienemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\model\\movemeng\\interface\\ienemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\model\\entity\\row.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,7 +95,7 @@
       "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\model\\entity\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|c:\\users\\veche\\homeworkeinotus\\assets\\source\\observer\\interface\\ienemyobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\observer\\interface\\ienemyobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\observer\\interface\\ienemyobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -43,15 +103,11 @@
       "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\observer\\enemyobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\model\\spawner\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\model\\spawner\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\observer\\rowobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\observer\\rowobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|c:\\users\\veche\\homeworkeinotus\\assets\\source\\model\\bullets\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\model\\bullets\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\model\\bullets\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -59,28 +115,12 @@
       "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\model\\entity\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|c:\\users\\veche\\homeworkeinotus\\assets\\source\\model\\health\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\model\\health\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\model\\health\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|c:\\users\\veche\\homeworkeinotus\\assets\\source\\model\\spawner\\poolobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\model\\spawner\\poolobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\controller\\charactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\controller\\charactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\manager\\gamaplaymenager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\manager\\gamaplaymenager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\view\\fsm\\state\\physicsroutingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\view\\fsm\\state\\physicsroutingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\view\\fsm\\state\\guiinitializedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\view\\fsm\\state\\guiinitializedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\model\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -99,10 +139,6 @@
       "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\model\\spawner\\enemyspawnerbullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\model\\spawner\\bulletspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\model\\spawner\\bulletspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\model\\spawner\\characterspawnerbullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\model\\spawner\\characterspawnerbullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -111,31 +147,11 @@
       "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\model\\movemeng\\charactermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\observer\\characterobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\observer\\characterobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\observer\\bulletobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\observer\\bulletobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\Data\\PlayerData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:Assets\\Source\\Model\\Data\\PlayerData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\model\\health\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\model\\health\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\view\\panel\\gamaplayviewpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\view\\panel\\gamaplayviewpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\Data\\SingelPlayerData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:Assets\\Source\\Model\\Data\\SingelPlayerData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|c:\\users\\veche\\homeworkeinotus\\assets\\source\\observer\\interface\\icharacterobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\observer\\interface\\icharacterobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\observer\\interface\\icharacterobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -159,20 +175,12 @@
       "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\model\\servicelocator\\initializedsingelservicelocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\model\\data\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\model\\data\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\model\\dataservice\\datasave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\model\\dataservice\\datasave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\model\\dataservice\\interface\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\model\\dataservice\\interface\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Data\\SingelPlayerData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Source\\Data\\SingelPlayerData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Observer\\Action\\EnemyDeathAction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -185,10 +193,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\view\\panel\\startviewpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\view\\panel\\startviewpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\view\\panel\\endgamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:assets\\source\\view\\panel\\endgamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\assets\\source\\model\\servicelocator\\interface\\isingelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -307,16 +311,28 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Source\\Observer\\Action\\Observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Data\\PlayerData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Source\\Data\\PlayerData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\Data\\GameData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Source\\Model\\Data\\GameData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\Data\\CharacterData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:Assets\\Source\\Model\\Data\\CharacterData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Data\\SingelPlayerData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:Assets\\Source\\Data\\SingelPlayerData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\Data\\Interface\\ICharacterData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08612538-EC48-1619-827B-D57912F38CA5}|Assembly-CSharp.csproj|solutionrelative:Assets\\Source\\Model\\Data\\Interface\\ICharacterData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\Data\\CharacterData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Source\\Model\\Data\\CharacterData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\Data\\Interface\\ICharacterData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Source\\Model\\Data\\Interface\\ICharacterData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\Data\\PlayerData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Source\\Model\\Data\\PlayerData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\Data\\SingelPlayerData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Source\\Model\\Data\\SingelPlayerData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -326,11 +342,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 69,
+          "SelectedChildIndex": 65,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
+              "Title": "TransformableViewFactory.cs",
+              "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\View\\Factory\\TransformableViewFactory.cs",
+              "RelativeDocumentMoniker": "Assets\\Source\\View\\Factory\\TransformableViewFactory.cs",
+              "ToolTip": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\View\\Factory\\TransformableViewFactory.cs",
+              "RelativeToolTip": "Assets\\Source\\View\\Factory\\TransformableViewFactory.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAewBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T19:19:28.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ObserverController.cs",
+              "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Controller\\ObserverController.cs",
+              "RelativeDocumentMoniker": "Assets\\Source\\Controller\\ObserverController.cs",
+              "ToolTip": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Controller\\ObserverController.cs",
+              "RelativeToolTip": "Assets\\Source\\Controller\\ObserverController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T19:02:57.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TimerViewPanel.cs",
+              "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\View\\Panel\\TimerViewPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Source\\View\\Panel\\TimerViewPanel.cs",
+              "ToolTip": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\View\\Panel\\TimerViewPanel.cs",
+              "RelativeToolTip": "Assets\\Source\\View\\Panel\\TimerViewPanel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T10:40:30.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExitViewPanel.cs",
+              "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\View\\Panel\\ExitViewPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Source\\View\\Panel\\ExitViewPanel.cs",
+              "ToolTip": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\View\\Panel\\ExitViewPanel.cs",
+              "RelativeToolTip": "Assets\\Source\\View\\Panel\\ExitViewPanel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T10:11:23.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "EnemyMovement.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\Movemeng\\EnemyMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Model\\Movemeng\\EnemyMovement.cs",
@@ -338,12 +402,11 @@
               "RelativeToolTip": "Assets\\Source\\Model\\Movemeng\\EnemyMovement.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAQwAUAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T21:50:36.31Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T21:50:36.31Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 20,
               "Title": "IEnemyMovement.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\Movemeng\\Interface\\IEnemyMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Model\\Movemeng\\Interface\\IEnemyMovement.cs",
@@ -351,12 +414,11 @@
               "RelativeToolTip": "Assets\\Source\\Model\\Movemeng\\Interface\\IEnemyMovement.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T21:50:15.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T21:50:15.872Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 23,
               "Title": "IEnemyObserver.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Observer\\Interface\\IEnemyObserver.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Observer\\Interface\\IEnemyObserver.cs",
@@ -364,12 +426,11 @@
               "RelativeToolTip": "Assets\\Source\\Observer\\Interface\\IEnemyObserver.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T21:18:24.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T21:18:24.897Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 37,
               "Title": "ICharacterObserver.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Observer\\Interface\\ICharacterObserver.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Observer\\Interface\\ICharacterObserver.cs",
@@ -377,12 +438,11 @@
               "RelativeToolTip": "Assets\\Source\\Observer\\Interface\\ICharacterObserver.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T19:56:49.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T19:56:49.171Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 28,
               "Title": "Health.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\Health\\Health.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Model\\Health\\Health.cs",
@@ -390,12 +450,11 @@
               "RelativeToolTip": "Assets\\Source\\Model\\Health\\Health.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T19:56:14.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T19:56:14.61Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 26,
               "Title": "Bullet.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\Bullets\\Bullet.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Model\\Bullets\\Bullet.cs",
@@ -403,12 +462,11 @@
               "RelativeToolTip": "Assets\\Source\\Model\\Bullets\\Bullet.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T19:47:04.487Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T19:47:04.487Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 40,
               "Title": "IEnemyShot.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\IEnemyShot.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Model\\IEnemyShot.cs",
@@ -420,7 +478,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 41,
               "Title": "IBulletObserver.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Observer\\Interface\\IBulletObserver.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Observer\\Interface\\IBulletObserver.cs",
@@ -432,7 +490,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 77,
               "Title": "GameData.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\Data\\GameData.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Model\\Data\\GameData.cs",
@@ -444,7 +502,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 78,
               "Title": "SingelPlayerData.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Data\\SingelPlayerData.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Data\\SingelPlayerData.cs",
@@ -455,7 +513,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 44,
               "Title": "IDataService.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\DataService\\Interface\\IDataService.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Model\\DataService\\Interface\\IDataService.cs",
@@ -467,7 +525,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 43,
               "Title": "DataSave.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\DataService\\DataSave.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Model\\DataService\\DataSave.cs",
@@ -479,19 +537,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 17,
               "Title": "PlayerData.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Data\\PlayerData.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Data\\PlayerData.cs",
               "ToolTip": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Data\\PlayerData.cs",
               "RelativeToolTip": "Assets\\Source\\Data\\PlayerData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-06T21:42:29.322Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 39,
               "Title": "StartEntryPoint.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\EntryPoint\\StartEntryPoint.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\EntryPoint\\StartEntryPoint.cs",
@@ -503,7 +561,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 42,
               "Title": "InitializedSingelServiceLocator.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\ServiceLocator\\InitializedSingelServiceLocator.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Model\\ServiceLocator\\InitializedSingelServiceLocator.cs",
@@ -515,7 +573,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 38,
               "Title": "CharacterDeathAction.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Observer\\Action\\Character\\CharacterDeathAction.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Observer\\Action\\Character\\CharacterDeathAction.cs",
@@ -523,12 +581,11 @@
               "RelativeToolTip": "Assets\\Source\\Observer\\Action\\Character\\CharacterDeathAction.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T21:26:11.56Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-06T21:26:11.56Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 25,
               "Title": "RowObserver.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Observer\\RowObserver.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Observer\\RowObserver.cs",
@@ -536,25 +593,23 @@
               "RelativeToolTip": "Assets\\Source\\Observer\\RowObserver.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T21:25:07.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-06T21:25:07.627Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "ActionObserver.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Observer\\Action\\ActionObserver.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Observer\\Action\\ActionObserver.cs",
               "ToolTip": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Observer\\Action\\ActionObserver.cs",
               "RelativeToolTip": "Assets\\Source\\Observer\\Action\\ActionObserver.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAQwCUAAAAAAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAIA1wDYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T13:55:41.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-06T13:55:41.268Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 29,
               "Title": "PhysicsRoutingState.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\View\\Fsm\\State\\PhysicsRoutingState.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\View\\Fsm\\State\\PhysicsRoutingState.cs",
@@ -562,12 +617,11 @@
               "RelativeToolTip": "Assets\\Source\\View\\Fsm\\State\\PhysicsRoutingState.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T13:45:38.624Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-06T13:45:38.624Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 31,
               "Title": "EnemyShot.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\EnemyShot.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Model\\EnemyShot.cs",
@@ -575,12 +629,11 @@
               "RelativeToolTip": "Assets\\Source\\Model\\EnemyShot.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T13:42:15.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-06T13:42:15.279Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 36,
               "Title": "PlayerHealth.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\Health\\PlayerHealth.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Model\\Health\\PlayerHealth.cs",
@@ -588,12 +641,11 @@
               "RelativeToolTip": "Assets\\Source\\Model\\Health\\PlayerHealth.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T13:23:03.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-06T13:23:03.804Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 27,
               "Title": "Character.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\Entity\\Character.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Model\\Entity\\Character.cs",
@@ -601,38 +653,35 @@
               "RelativeToolTip": "Assets\\Source\\Model\\Entity\\Character.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T13:22:55.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-06T13:22:55.914Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 2,
               "Title": "PoolObject.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\Spawner\\PoolObject.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Model\\Spawner\\PoolObject.cs",
               "ToolTip": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\Spawner\\PoolObject.cs",
               "RelativeToolTip": "Assets\\Source\\Model\\Spawner\\PoolObject.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T11:43:48.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-06T11:43:48.522Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 12,
               "Title": "GUIInitializedState.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\View\\Fsm\\State\\GUIInitializedState.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\View\\Fsm\\State\\GUIInitializedState.cs",
               "ToolTip": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\View\\Fsm\\State\\GUIInitializedState.cs",
               "RelativeToolTip": "Assets\\Source\\View\\Fsm\\State\\GUIInitializedState.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBkAAAAAAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAiwEcAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T08:38:30.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T08:38:30.91Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 71,
               "Title": "BulletDisablePoolObjectAction.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Observer\\Action\\BulletDisablePoolObjectAction.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Observer\\Action\\BulletDisablePoolObjectAction.cs",
@@ -644,7 +693,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 72,
               "Title": "UpdateWalletAction.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Observer\\Action\\UpdateWalletAction.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Observer\\Action\\UpdateWalletAction.cs",
@@ -656,7 +705,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 73,
               "Title": "CharacterTakeDamageAction.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Observer\\Action\\CharacterTakeDamageAction.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Observer\\Action\\CharacterTakeDamageAction.cs",
@@ -668,7 +717,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 74,
               "Title": "CharacterDeathAction.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Observer\\Action\\CharacterDeathAction.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Observer\\Action\\CharacterDeathAction.cs",
@@ -680,7 +729,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 75,
               "Title": "EnemyDisableAction.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Observer\\Action\\EnemyDisableAction.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Observer\\Action\\EnemyDisableAction.cs",
@@ -692,7 +741,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 30,
               "Title": "Control.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\Control.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Model\\Control.cs",
@@ -700,12 +749,11 @@
               "RelativeToolTip": "Assets\\Source\\Model\\Control.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T05:21:50.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T05:21:50.836Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "EnemyDeathAction.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Observer\\Action\\EnemyDeathAction.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Observer\\Action\\EnemyDeathAction.cs",
@@ -716,7 +764,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 76,
               "Title": "Observer.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Observer\\Action\\Observer.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Observer\\Action\\Observer.cs",
@@ -728,7 +776,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "EnemyDeathAction.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Observer\\ActionObserver\\EnemyDeathAction.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Observer\\ActionObserver\\EnemyDeathAction.cs",
@@ -739,7 +787,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "StartViewPanel.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\View\\Panel\\StartViewPanel.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\View\\Panel\\StartViewPanel.cs",
@@ -751,19 +799,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 15,
               "Title": "EndGamePanel.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\View\\Panel\\EndGamePanel.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\View\\Panel\\EndGamePanel.cs",
               "ToolTip": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\View\\Panel\\EndGamePanel.cs",
               "RelativeToolTip": "Assets\\Source\\View\\Panel\\EndGamePanel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T11:04:41.506Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 62,
               "Title": "ICharacterObserver.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Observer\\ActionObserver\\Interface\\ICharacterObserver.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Observer\\ActionObserver\\Interface\\ICharacterObserver.cs",
@@ -775,7 +823,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 63,
               "Title": "IBulletObserver.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Observer\\ActionObserver\\Interface\\IBulletObserver.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Observer\\ActionObserver\\Interface\\IBulletObserver.cs",
@@ -787,20 +835,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 5,
               "Title": "CharacterController.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Controller\\CharacterController.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Controller\\CharacterController.cs",
               "ToolTip": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Controller\\CharacterController.cs",
               "RelativeToolTip": "Assets\\Source\\Controller\\CharacterController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwBkAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T10:35:27.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T10:35:27.439Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 64,
               "Title": "BulletDisablePoolObjectObserver.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Observer\\ActionObserver\\BulletDisablePoolObjectObserver.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Observer\\ActionObserver\\BulletDisablePoolObjectObserver.cs",
@@ -812,7 +859,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 65,
               "Title": "EntityActionObserver.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Observer\\ActionObserver\\EntityActionObserver.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Observer\\ActionObserver\\EntityActionObserver.cs",
@@ -824,20 +871,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 9,
               "Title": "CharacterObserver.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Observer\\CharacterObserver.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Observer\\CharacterObserver.cs",
               "ToolTip": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Observer\\CharacterObserver.cs",
               "RelativeToolTip": "Assets\\Source\\Observer\\CharacterObserver.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T10:19:13.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T10:19:13.405Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 32,
               "Title": "Timers.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\Timers.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Model\\Timers.cs",
@@ -845,12 +891,11 @@
               "RelativeToolTip": "Assets\\Source\\Model\\Timers.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T10:18:36.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T10:18:36.872Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 35,
               "Title": "CharacterMovement.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\Movemeng\\CharacterMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Model\\Movemeng\\CharacterMovement.cs",
@@ -858,12 +903,11 @@
               "RelativeToolTip": "Assets\\Source\\Model\\Movemeng\\CharacterMovement.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T10:17:51.277Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T10:17:51.277Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 79,
               "Title": "CharacterData.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\Data\\CharacterData.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Model\\Data\\CharacterData.cs",
@@ -875,7 +919,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 80,
               "Title": "ICharacterData.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\Data\\Interface\\ICharacterData.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Model\\Data\\Interface\\ICharacterData.cs",
@@ -887,7 +931,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "IService.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\ServiceLocator\\Interface\\IService.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Model\\ServiceLocator\\Interface\\IService.cs",
@@ -899,7 +943,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "ISingelService.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\ServiceLocator\\Interface\\ISingelService.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Model\\ServiceLocator\\Interface\\ISingelService.cs",
@@ -911,7 +955,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 66,
               "Title": "Catalog.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\Catalog.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Model\\Catalog.cs",
@@ -923,7 +967,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 24,
               "Title": "EnemyObserver.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Observer\\EnemyObserver.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Observer\\EnemyObserver.cs",
@@ -931,25 +975,23 @@
               "RelativeToolTip": "Assets\\Source\\Observer\\EnemyObserver.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T09:48:16.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T09:48:16.826Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 10,
               "Title": "BulletObserver.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Observer\\BulletObserver.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Observer\\BulletObserver.cs",
               "ToolTip": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Observer\\BulletObserver.cs",
               "RelativeToolTip": "Assets\\Source\\Observer\\BulletObserver.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwBIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T09:47:52.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T09:47:52.811Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "EntityActionObserver.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\Observer\\EntityActionObserver.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Model\\Observer\\EntityActionObserver.cs",
@@ -960,7 +1002,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 81,
               "Title": "PlayerData.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\Data\\PlayerData.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Model\\Data\\PlayerData.cs",
@@ -968,12 +1010,11 @@
               "RelativeToolTip": "Assets\\Source\\Model\\Data\\PlayerData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T19:56:07.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T19:56:07.856Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 82,
               "Title": "SingelPlayerData.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\Data\\SingelPlayerData.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Model\\Data\\SingelPlayerData.cs",
@@ -981,12 +1022,11 @@
               "RelativeToolTip": "Assets\\Source\\Model\\Data\\SingelPlayerData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T19:55:39.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T19:55:39.188Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 67,
               "Title": "GUIInitializedState.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\View\\State\\GUIInitializedState.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\View\\State\\GUIInitializedState.cs",
@@ -998,20 +1038,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 14,
               "Title": "GamaplayViewPanel.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\View\\Panel\\GamaplayViewPanel.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\View\\Panel\\GamaplayViewPanel.cs",
               "ToolTip": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\View\\Panel\\GamaplayViewPanel.cs",
               "RelativeToolTip": "Assets\\Source\\View\\Panel\\GamaplayViewPanel.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAQwBIAAABRAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T19:39:37.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T19:39:37.628Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 60,
               "Title": "ICharacterObserver.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\Interface\\ICharacterObserver.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Model\\Interface\\ICharacterObserver.cs",
@@ -1023,7 +1062,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 54,
               "Title": "Catalog.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\Observer\\Catalog.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Model\\Observer\\Catalog.cs",
@@ -1035,7 +1074,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 55,
               "Title": "CharacterObserver.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\Observer\\CharacterObserver.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Model\\Observer\\CharacterObserver.cs",
@@ -1047,7 +1086,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 51,
               "Title": "PhysicsEventsBroadcaster.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\View\\PhysicsEventsBroadcaster.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\View\\PhysicsEventsBroadcaster.cs",
@@ -1059,46 +1098,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "EnemysController.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Controller\\EnemysController.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Controller\\EnemysController.cs",
               "ToolTip": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Controller\\EnemysController.cs",
               "RelativeToolTip": "Assets\\Source\\Controller\\EnemysController.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAwwDUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T18:49:03.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T18:49:03.964Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "GamaplayMenager.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Manager\\GamaplayMenager.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Manager\\GamaplayMenager.cs",
               "ToolTip": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Manager\\GamaplayMenager.cs",
               "RelativeToolTip": "Assets\\Source\\Manager\\GamaplayMenager.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAApwEEAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T18:45:34.658Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T18:45:34.658Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "EnemySpawner.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\Spawner\\EnemySpawner.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Model\\Spawner\\EnemySpawner.cs",
               "ToolTip": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\Spawner\\EnemySpawner.cs",
               "RelativeToolTip": "Assets\\Source\\Model\\Spawner\\EnemySpawner.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAiwHcAAAASAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwFEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T18:43:51.942Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 56,
               "Title": "EnemyObserver.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\Observer\\EnemyObserver.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Model\\Observer\\EnemyObserver.cs",
@@ -1110,7 +1147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 68,
               "Title": "ICharacterBulletObserver.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Observer\\ActionObserver\\Interface\\ICharacterBulletObserver.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Observer\\ActionObserver\\Interface\\ICharacterBulletObserver.cs",
@@ -1122,7 +1159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 69,
               "Title": "IEnemyBulletObserver.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Observer\\ActionObserver\\Interface\\IEnemyBulletObserver.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Observer\\ActionObserver\\Interface\\IEnemyBulletObserver.cs",
@@ -1134,7 +1171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 33,
               "Title": "EnemySpawnerBullet.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\Spawner\\EnemySpawnerBullet.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Model\\Spawner\\EnemySpawnerBullet.cs",
@@ -1142,25 +1179,23 @@
               "RelativeToolTip": "Assets\\Source\\Model\\Spawner\\EnemySpawnerBullet.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T18:22:28.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T18:22:28.944Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 1,
               "Title": "BulletSpawner.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\Spawner\\BulletSpawner.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Model\\Spawner\\BulletSpawner.cs",
               "ToolTip": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\Spawner\\BulletSpawner.cs",
               "RelativeToolTip": "Assets\\Source\\Model\\Spawner\\BulletSpawner.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAA1wCcAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T18:21:22.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T18:21:22.167Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 34,
               "Title": "CharacterSpawnerBullet.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\Spawner\\CharacterSpawnerBullet.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Model\\Spawner\\CharacterSpawnerBullet.cs",
@@ -1168,25 +1203,23 @@
               "RelativeToolTip": "Assets\\Source\\Model\\Spawner\\CharacterSpawnerBullet.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T18:21:07.557Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T18:21:07.557Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "BulletController.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Controller\\BulletController.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Controller\\BulletController.cs",
               "ToolTip": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Controller\\BulletController.cs",
               "RelativeToolTip": "Assets\\Source\\Controller\\BulletController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAApwCQAAAAdAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAIAwwBcAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T18:19:57.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T18:19:57.632Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 18,
               "Title": "GameplayEntryPoint.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\EntryPoint\\GameplayEntryPoint.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\EntryPoint\\GameplayEntryPoint.cs",
@@ -1194,12 +1227,11 @@
               "RelativeToolTip": "Assets\\Source\\EntryPoint\\GameplayEntryPoint.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAIAwwA8AAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T18:18:48.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T18:18:48.688Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 57,
               "Title": "BulletObserver.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\Observer\\BulletObserver.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Model\\Observer\\BulletObserver.cs",
@@ -1211,7 +1243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 58,
               "Title": "PoolObject.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\PoolObject.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Model\\PoolObject.cs",
@@ -1223,7 +1255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 21,
               "Title": "Row.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\Entity\\Row.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Model\\Entity\\Row.cs",
@@ -1231,12 +1263,11 @@
               "RelativeToolTip": "Assets\\Source\\Model\\Entity\\Row.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T06:04:13.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T06:04:13.117Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 59,
               "Title": "CollisionRecord.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\CollisionRecord.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Model\\CollisionRecord.cs",
@@ -1248,7 +1279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 22,
               "Title": "Enemy.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\Entity\\Enemy.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Model\\Entity\\Enemy.cs",
@@ -1256,12 +1287,11 @@
               "RelativeToolTip": "Assets\\Source\\Model\\Entity\\Enemy.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAUwBIAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T06:04:13.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T06:04:13.053Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 70,
               "Title": "LevelInitializedState.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\View\\State\\LevelInitializedState.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\View\\State\\LevelInitializedState.cs",
@@ -1273,7 +1303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 61,
               "Title": "Constant.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Source\\Model\\Constant.cs",
               "RelativeDocumentMoniker": "Assets\\Source\\Model\\Constant.cs",
@@ -1285,7 +1315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 52,
               "Title": "Benchmark04.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Resources\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\Benchmark04.cs",
               "RelativeDocumentMoniker": "Assets\\Resources\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\Benchmark04.cs",
@@ -1297,7 +1327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 53,
               "Title": "Benchmark01.cs",
               "DocumentMoniker": "C:\\Users\\veche\\HomeWorkeInOTUS\\Assets\\Resources\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\Benchmark01.cs",
               "RelativeDocumentMoniker": "Assets\\Resources\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\Benchmark01.cs",

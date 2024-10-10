@@ -14,7 +14,7 @@ namespace ShootEmUp.Model
         private T[] _types => _poolGameObject.Keys.ToArray();
         private GameObject[] _gameObjects => _poolGameObject.Values.ToArray();
 
-        public (T, GameObject) Enable(T model,Vector2 position, Quaternion rotation)
+        public (T, GameObject) Enable(Func<T> creatEntity,Vector2 position, Quaternion rotation)
         {
             for (int i = 0; i < _poolGameObject.Count; i++)
             {
@@ -24,7 +24,7 @@ namespace ShootEmUp.Model
                     return GetPairFromPoolObject(i, position, rotation);
             }
 
-            onInstantiat.Invoke(model, AddObject);
+            onInstantiat.Invoke(creatEntity.Invoke(), AddObject);
 
             int lastElement = _poolGameObject.Count - 1;
             return GetPairFromPoolObject(lastElement, position, rotation);
@@ -49,7 +49,7 @@ namespace ShootEmUp.Model
         private void AddObject(T model, GameObject gameObject)
         {
             gameObject.SetActive(false);
-            _poolGameObject.Add(model, gameObject);
+             _poolGameObject.Add(model, gameObject);
         }
 
         private (T,GameObject) GetPairFromPoolObject(int index,Vector2 position,Quaternion rotation)

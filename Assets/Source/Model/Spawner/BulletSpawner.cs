@@ -22,13 +22,13 @@ namespace ShootEmUp.Model
         public override void Enable()
         {
             base.Enable();
-            _poolObject.onInstantiat += onSpawnBullet;
+            _poolObject.onInstantiat += InstantiatBullet;
         }
 
         public override void Disable()
         {
             base.Disable();
-            _poolObject.onInstantiat -= onSpawnBullet;
+            _poolObject.onInstantiat -= InstantiatBullet;
         }
 
         protected void TrySpawn(Vector2 position, Quaternion rotaiton)
@@ -37,7 +37,7 @@ namespace ShootEmUp.Model
             {
                 OnSpawn();
 
-                (Bullet, GameObject) pair = _poolObject.Enable(GetBullet(),position,rotaiton);
+                (Bullet, GameObject) pair = _poolObject.Enable(GetBullet,position,rotaiton);
 
                 Bullet bullet = pair.Item1;
                 GameObject model = pair.Item2;
@@ -62,5 +62,8 @@ namespace ShootEmUp.Model
         protected abstract Bullet GetBullet();
 
         protected virtual void OnSpawn() { }
+
+        private void InstantiatBullet(Bullet bullet,Action<Bullet,GameObject> action)
+        => onSpawnBullet.Invoke(bullet,action);
     }
 }

@@ -6,20 +6,26 @@ namespace ShootEmUp.View
 {
     public class GUIInitializedState : State
     {
-        private readonly GamaplayViewPanel _viewPanel;
-        private readonly PlayerHealth _playerHealth;
-        private readonly GamaplayMenager _gamaplayMenager;
+        private readonly GamaplayViewPanel _gameplayViewPanel;
+        private readonly ExitViewPanel _exitViewPanel;
         private readonly EndGamePanel _endGamePanel;
+        private readonly TimerViewPanel _timerViewPanel;
+        private readonly PlayerHealth _playerHealth;
+        private readonly GamaplayMenager _gameplayMenager;
         private readonly PlayerData _playerData;
         private readonly IWallet _wallet;
         private readonly ICharacterObserver _characterObserver;
 
-        public GUIInitializedState(Fsm fsm,ServiceLocator locator, GamaplayViewPanel panel,GamaplayMenager gamaplayMenager,EndGamePanel endGamePanel) : base(fsm)
+        public GUIInitializedState(Fsm fsm, GamaplayMenager gamaplayMenager, ServiceLocator locator,ExitViewPanel exitViewPanel, GamaplayViewPanel panel,EndGamePanel endGamePanel,TimerViewPanel timerViewPanel) : base(fsm)
         {
-            _viewPanel = panel;
-            _gamaplayMenager = gamaplayMenager;
+            _gameplayMenager = gamaplayMenager;
+            _timerViewPanel = timerViewPanel;
+            _exitViewPanel = exitViewPanel;
             _endGamePanel = endGamePanel;
+            _gameplayViewPanel = panel;
+
             _wallet = SingelServiceLocator.GetService<IWallet>();
+
             _characterObserver = locator.GetService<ICharacterObserver>();
             _playerData = locator.GetService<PlayerData>();
             _playerHealth = locator.GetService<PlayerHealth>();
@@ -28,19 +34,19 @@ namespace ShootEmUp.View
         public override void Enter()
         {
             _characterObserver.TryAddActionOnDeath(Death);
-            _viewPanel.Init(_playerData, _characterObserver);
-            _viewPanel.Show(GUIExit);
+            _gameplayViewPanel.Init(_playerData, _characterObserver);
+            EnterGameplayPanel();
 
             Fsm.SetState<PhysicsRoutingState>();
         }
 
         private void Death()
         {
-            _gamaplayMenager.Disable();
-            _endGamePanel.Show(GUIReset, GUIExit, _wallet.Score);
+            _gameplayMenager.Disable();
+            _endGamePanel.Show(Reset, GUIExit, _wallet.Score);
         }
 
-        private void GUIReset()
+        private void Reset()
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
             _wallet.Reset();
@@ -60,6 +66,19 @@ namespace ShootEmUp.View
             SceneManager.LoadScene(Constant.StartScena);
         }
 
-    }
+        private void EnterExitPanel()
+        {
+            _gameplayMenager.Disable();
+            _exitViewPanel.Show(GUIExit, () => _timerViewPanel.Show(EnterGameplay));
+        }
 
+        private void EnterGameplayPanel()
+        => _gameplayViewPanel.Show(EnterExitPanel);
+
+        private void EnterGameplay()
+        {
+            _gameplayMenager.Enable();
+            EnterGameplayPanel();
+        }
+    }
 }

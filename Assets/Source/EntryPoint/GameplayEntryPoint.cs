@@ -30,7 +30,10 @@ public class GameplayEntryPoint : MonoBehaviour
         RegistaryObserver(locator);
         RegistaryMovement(locator,config);
         RegistarySimulated(locator);
-        RegistarySpawnerAndEnemyShot(locator, config);
+        RegistarySpawnerBullet(locator, config);
+        RegistaryEnemyShot(locator);
+        RegistaryEntityCreater(locator);
+        RegistaryEnemySpawner(locator);
 
         CharacterController characterController = new CharacterController(locator);
         BulletController bulletController = new BulletController(locator);
@@ -46,20 +49,17 @@ public class GameplayEntryPoint : MonoBehaviour
     private void RegistaryEnemyShot(ServiceLocator locator)
     => locator.RegistareService<IEnemyShot>(new EnemyShot(locator));
 
-    private void RegistarySpawnerAndEnemyShot(ServiceLocator locator,CharacterConfig config)
+    private void RegistarySpawnerBullet(ServiceLocator locator,CharacterConfig config)
     {
-        CharacterSpawnerBullet characterSpawnerBullet = new CharacterSpawnerBullet(_pointSpawn, locator, config.Cooldown);
-        EnemySpawnerBullet enemySpawnerBullet = new EnemySpawnerBullet(locator);
-
-        locator.RegistareService(characterSpawnerBullet);
-        locator.RegistareService(enemySpawnerBullet);
-
-        RegistaryEnemyShot(locator);
-
-        EnemySpawner enemySpawner = new EnemySpawner(locator, _enemyPointsSpawn.ToArray());
-
-        locator.RegistareService(enemySpawner);
+        locator.RegistareService(new CharacterSpawnerBullet(_pointSpawn, locator, config.Cooldown));
+        locator.RegistareService(new EnemySpawnerBullet(locator));
     }
+
+    private void RegistaryEntityCreater(ServiceLocator locator)
+    => locator.RegistareService<IEntityCreater>(new EntityCreater(locator));
+
+    private void RegistaryEnemySpawner(ServiceLocator locator)
+    => locator.RegistareService(new EnemySpawner(locator, _enemyPointsSpawn.ToArray()));
 
     private void RegistarySimulated(ServiceLocator locator)
     {

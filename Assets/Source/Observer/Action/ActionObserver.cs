@@ -81,7 +81,7 @@ namespace ShootEmUp.Observer
 
                 for (int i = 0; i < _actions.Count; i++)
                 {
-                    if (IsUnsubscribing(i))
+                    if (IsUnsubscribing(i) == false)
                         continue;
 
                     Unsubscribing(_actions[i]);
@@ -95,7 +95,7 @@ namespace ShootEmUp.Observer
 
                 for (int i = 0; i < _actions.Count; i++)
                 {
-                    if (IsSubscription(i))
+                    if (IsSubscription(i) == false)
                         continue;
 
                     Subscription(_actions[i]);
